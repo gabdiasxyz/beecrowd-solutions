@@ -1,16 +1,13 @@
-# Compilação local
 *.exe
 *.o
 *.obj
 *.out
 build/
 
-# Python e editor
 __pycache__/
 *.py[cod]
 .vscode/
 
-# Rascunhos locais
 to_submit/
 *_attempt.*
 *attempt.cpp
